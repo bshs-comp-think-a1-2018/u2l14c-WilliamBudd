@@ -1,39 +1,29 @@
-body{
-  text-align: center;
-  background-color: gray;
+body {
+  background: black;
 }
-img {
-  width: 500px;
-  border-color:black;
-  border-style: ridge;
-  border-width: 5px;
+p {
+  color: forestgreen;
 }
-h1 {
-  font-size: 50px;
+body {
+  color:lime;
+  font-family: monospace;
 }
 h2 {
-  font-size: 40px;
+  font-weight: bold;
+  color: rgb(0,255,0);
+  text-decoration: underline;
+  text-align: center;
 }
-h5 {
-  font-size: 15px;
-} 
-
-.winter {
-  color: rgb(195,230,255);
-  font-family: monospace; 
-} 
-
-.spring {
-  color: rgb(236,222,106);
-  font-family: cursive;  
+h4 {
+  font-weight: bold;
+  text-decoration-color: lime;
+  text-decoration: underline;
+  text-align: center;
 }
-
-.summer {
-  color: rgb(234,128,158);
-  font-family: sans-serif;
+  img {
+    border-style: groove;
+    border-color: rgb(0,255,0);
 }
-
-.fall {
-  color: rgb(61,172,83);
-  font-family: inherit;
+a {
+  color: lime
 }
